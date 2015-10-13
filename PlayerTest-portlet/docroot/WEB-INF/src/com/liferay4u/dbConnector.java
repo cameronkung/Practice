@@ -5,10 +5,10 @@ import java.sql.DriverManager;
 
 public class dbConnector {
 
-	String url = "jdbc:mysql://localhost/test"; //"test" = name of database
+	String url = "jdbc:mysql://gll.eil-server.cba.ua.edu/gll_db"; //"test" = name of database
 	String driver = "com.mysql.jdbc.Driver";
-	String username = "root";
-	String password = "";
+	String username = "ckung";
+	String password = "GLLAllstars2015";
 	Connection conn;
 	
 	
