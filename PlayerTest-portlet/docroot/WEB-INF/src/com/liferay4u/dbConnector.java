@@ -7,7 +7,7 @@ public class dbConnector {
 
 	String url = "jdbc:mysql://gll.eil-server.cba.ua.edu/gll_db"; //"test" = name of database
 	String driver = "com.mysql.jdbc.Driver";
-	String username = "ckung";
+	String username = "msalmon14";
 	String password = "GLLAllstars2015";
 	Connection conn;
 	
